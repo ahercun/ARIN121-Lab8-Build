@@ -1,0 +1,6 @@
+{
+  "name": "Quick Quiz",
+  "description": "Generate a three-question multiple-choice practice quiz directly from your study notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
